@@ -1,1 +1,1 @@
-My solution on shell redirection task
+My solution to shell redirections task
